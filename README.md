@@ -11,5 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=jinbekim" />
+</div>
 -->
-
+<h3 align="center">
+<a href="mailto:lljrwq123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</h3>
