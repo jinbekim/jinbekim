@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=jinbekim" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbekim)](https://github.com/jinbekim/github-readme-stats)
 </div>
 -->
 <h3 align="center">
 <a href="mailto:lljrwq123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </h3>
+
+
+
