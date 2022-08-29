@@ -29,7 +29,7 @@ My goal is to become the person everyone wants to work with.<br/>
 
 
 <h3> 🤔 About Me...</h3>
-- 🌱 I am interested in TypeScript, React, CI/CD, Peer learning!<br/>
+- 🌱 I am interested in TypeScript, JavaScript, Peer learning!<br/>
 - 🌱 I am studying at <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 
 
