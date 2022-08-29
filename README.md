@@ -16,9 +16,56 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbekim)](https://github.com/jinbekim/github-readme-stats)
 </div>
 -->
-<h3 align="center">
-<a href="mailto:lljrwq123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</h3>
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
+<div align = "center">
+
+<br/>
+<h3>Hello World! 🥳</h3>
+Hi, I'm Jinbeom Kim! <br/>
+My goal is to become the person everyone wants to work with.<br/>
+
+
+<h3> 🤔 About Me...</h3>
+- 🌱 I am interested in TypeScript, React, CI/CD, Peer learning!<br/>
+- 🌱 I am studying at <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 
 
 
+
+
+<br/><br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flljrwq123%2Fhit-counter&count_bg=%2317B09D&title_bg=%231B575E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lljrwq123@gmail.com)](mailto:lljrwq123@gmail.com)
+<br/>
+
+<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123) -->
+﹏﹏﹏﹏﹏﹏﹏
+
+<br/><br/>
+ 
+<h3>💻 Tech Stack 💻</h3>
+ 
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<br/>
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<br/><br/>
+
+<h3>
+
+</div>
+
+<!--
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+-->
