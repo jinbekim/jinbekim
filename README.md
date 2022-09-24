@@ -38,8 +38,12 @@ My goal is to become the person everyone wants to work with.<br/>
 
 <br/><br/>
 
+<!-- hit & badges -->
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flljrwq123%2Fhit-counter&count_bg=%2317B09D&title_bg=%231B575E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--
 [![Blog Badge](http://img.shields.io/badge/Blog-white?style=flat-square&logo=Velog&link=https://velog.io/@logins)](https://velog.io/@logins)
+-->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lljrwq123@gmail.com)](mailto:lljrwq123@gmail.com)
 <br/>
 
