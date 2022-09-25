@@ -57,6 +57,8 @@ My goal is to become the person everyone wants to work with.<br/>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
 </div>
 -->
+
+
 ﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
@@ -80,7 +82,10 @@ My goal is to become the person everyone wants to work with.<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br/><br/>
 
-<h3>
+<h3>⭐️ GitHub Stats ⭐️</h3>
+
+[![Jinbekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbekim&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
