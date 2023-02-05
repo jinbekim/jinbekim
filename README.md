@@ -66,11 +66,10 @@ Studying in <img src="https://img.shields.io/badge/Seoul-000000?style=flat-squar
 <br/><br/>
 -->
 
-<!-- Github Stats -->
+<!-- Github Stats
 <hr style="border-top: 3px solid #bbb;" />
-
 [![Jinbekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbekim&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 </div>
 
 <!-- footer
