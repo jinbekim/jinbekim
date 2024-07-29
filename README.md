@@ -11,36 +11,46 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=jinbekim" />
+
+-->
+
+# Kim Jinbeom
+
+## Work Experiences
+- EXEM (Apr 2023 ~ )
+  - Frontend Developer
+    - Technologies: Vue
+
+
+## Open-Source Contributions
+- https://github.com/CUBRID/cubrid/pull/3335
+- https://github.com/CUBRID/cubrid/pull/3328
+- https://github.com/CUBRID/cubrid/pull/3329
+- https://github.com/CUBRID/cubrid/pull/3324
+- https://github.com/mdn/translated-content/pull/15982
+- https://github.com/mdn/translated-content/pull/5164
+- https://github.com/mdn/translated-content/pull/5137
+- https://github.com/mdn/translated-content/pull/16692
+- https://github.com/mdn/translated-content/pull/15981
+- https://github.com/mdn/translated-content/pull/5138
+- https://github.com/lodash/lodash/pull/5789
+
+
+<!-- ## Cerificates -->
+<!-- ## Blog -->
+
+## Skill Set
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbekim)](https://github.com/jinbekim/github-readme-stats)
-</div>
--->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-<div align = "center">
-<br/>
-<h3> 🥳 Hello World!</h3>
 
-My goal is to become the person who everyone wants to work with<br/>
-and who can persuade people with **my own thoughts** and **valid reasons**.<br/>
+## Contacts
+- [Blog](https://blog-ivory-sigma.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/jinbeom-kim-7b5a9b204/)
+- [Mail](mailto:lljrwq123@gmail.com)
 
-Interested in JavaScript, Peer learning!<br/>
 
-Studying in <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
-<br/><br/>
 
-<!-- hit 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flljrwq123%2Fhit-counter&count_bg=%2317B09D&title_bg=%231B575E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
-
-<!-- badges -->
-<h3> 📫 How to reach me: <h3/>
-
-[![Blog Badge](http://img.shields.io/badge/Blog-white?style=flat-square&logo=Velog&link=https://velog.io/@logins)](https://velog.io/@logins)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lljrwq123@gmail.com)](mailto:lljrwq123@gmail.com)
-<br/>
 
 <!-- blog posts
 <div align="center" style="text-align:center">
@@ -49,28 +59,10 @@ Studying in <img src="https://img.shields.io/badge/Seoul-000000?style=flat-squar
 </div>
 -->
  
- <!-- Tech Stack
-<h3> Tech Stack </h3>
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-61DAFB?style=flat-square&logo=Socket.io&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<br/><br/>
--->
-
 <!-- Github Stats
 <hr style="border-top: 3px solid #bbb;" />
 [![Jinbekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbekim&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 -->
-</div>
 
 <!-- footer
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
