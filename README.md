@@ -23,17 +23,36 @@ Here are some ideas to get you started:
 
 
 ## Open-Source Contributions
-- https://github.com/CUBRID/cubrid/pull/3335
-- https://github.com/CUBRID/cubrid/pull/3328
-- https://github.com/CUBRID/cubrid/pull/3329
-- https://github.com/CUBRID/cubrid/pull/3324
-- https://github.com/mdn/translated-content/pull/15982
-- https://github.com/mdn/translated-content/pull/5164
-- https://github.com/mdn/translated-content/pull/5137
-- https://github.com/mdn/translated-content/pull/16692
-- https://github.com/mdn/translated-content/pull/15981
-- https://github.com/mdn/translated-content/pull/5138
-- https://github.com/lodash/lodash/pull/5789
+
+<details>
+  <summary>cubrid</summary>
+  <ul>
+<li> https://github.com/CUBRID/cubrid/pull/3335 </li>
+<li> https://github.com/CUBRID/cubrid/pull/3328 </li>
+<li> https://github.com/CUBRID/cubrid/pull/3329 </li>
+<li> https://github.com/CUBRID/cubrid/pull/3324 </li>
+  </ul>
+</details>
+
+<details>
+  <summary>mdn tarnslate</summary>
+  <ul>
+<li> https://github.com/mdn/translated-content/pull/15982 </li>
+<li> https://github.com/mdn/translated-content/pull/5164 </li>
+<li> https://github.com/mdn/translated-content/pull/5137 </li>
+<li> https://github.com/mdn/translated-content/pull/16692 </li>
+<li> https://github.com/mdn/translated-content/pull/15981 </li>
+<li> https://github.com/mdn/translated-content/pull/5138 </li> 
+<li> https://github.com/mdn/translated-content/pull/23044 </li>
+  </ul>
+</details>
+
+<details>
+  <summary>lodash</summary>
+  <ul>
+<li> https://github.com/lodash/lodash/pull/5789 </li>
+  </ul>
+</details>
 
 
 <!-- ## Cerificates -->
@@ -41,7 +60,6 @@ Here are some ideas to get you started:
 
 ## Skill Set
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbekim)](https://github.com/jinbekim/github-readme-stats)
-
 
 
 ## Contacts
