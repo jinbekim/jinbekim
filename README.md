@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>mdn tarnslate</summary>
+  <summary>mdn translate</summary>
   <ul>
 <li> https://github.com/mdn/translated-content/pull/15982 </li>
 <li> https://github.com/mdn/translated-content/pull/5164 </li>
