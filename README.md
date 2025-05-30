@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # Kim Jinbeom
 
 ## Work Experiences
+
 - EXEM (Apr 2023 ~ )
   - Frontend Developer
     - Technologies: Vue
@@ -35,7 +36,17 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>mdn translate</summary>
+  <summary>lodash</summary>
+  <ul>
+<li> https://github.com/lodash/lodash/pull/5789 </li>
+  </ul>
+</details>
+
+
+## Translation works (en-kr)
+
+<details>
+  <summary>MDN</summary>
   <ul>
 <li> https://github.com/mdn/translated-content/pull/15982 </li>
 <li> https://github.com/mdn/translated-content/pull/5164 </li>
@@ -47,22 +58,18 @@ Here are some ideas to get you started:
   </ul>
 </details>
 
-<details>
-  <summary>lodash</summary>
-  <ul>
-<li> https://github.com/lodash/lodash/pull/5789 </li>
-  </ul>
-</details>
 
 
 <!-- ## Cerificates -->
 <!-- ## Blog -->
 
 ## Skill Set
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbekim)](https://github.com/jinbekim/github-readme-stats)
 
 
 ## Contacts
+
 - [Blog](https://blog-ivory-sigma.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jinbeom-kim-7b5a9b204/)
 - [Mail](mailto:lljrwq123@gmail.com)
