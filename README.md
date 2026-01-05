@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>lodash</summary>
   <ul>
 <li> https://github.com/lodash/lodash/pull/5789 </li>
