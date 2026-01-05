@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Open-Source Contributions
 
-<details>
+<details open>
   <summary>cubrid</summary>
   <ul>
 <li> https://github.com/CUBRID/cubrid/pull/3335 </li>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## Translation works (en-kr)
 
-<details>
+<details open>
   <summary>MDN</summary>
   <ul>
 <li> https://github.com/mdn/translated-content/pull/15982 </li>
@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 <!-- ## Cerificates -->
 <!-- ## Blog -->
 
-## Skill Set
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbekim)](https://github.com/jinbekim/github-readme-stats)
+<!--
+## Skill Set [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbekim)](https://github.com/jinbekim/github-readme-stats)
+-->
 
 
 ## Contacts
